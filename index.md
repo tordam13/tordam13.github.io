@@ -8,3 +8,5 @@ Montgomery "Scotty" Scott is a fictional character in the science fiction franch
 * Good hands-on mentality
 
 > Beam me up!
+
+<img src="https://en.wikipedia.org/wiki/File:James_Doohan_Scotty_Star_Trek.JPG"/>
