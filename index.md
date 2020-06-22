@@ -6,3 +6,5 @@ Montgomery "Scotty" Scott is a fictional character in the science fiction franch
 * Excellent engineering skills
 * Takes a paternal attitude toward the ship
 * Good hands-on mentality
+
+> Beam me up!
